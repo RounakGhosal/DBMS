@@ -1,2 +1,2 @@
 # DBMS
-DBMS using SQL
+DBMS queries using MySQL
